@@ -14,6 +14,7 @@
   "homepage": "https://github.com/GaiAma/Coding4GaiAma/tree/master/packages/gatsby-plugin-goatcounter/README.md",
   "scripts": {
     "build": "rollup -c",
+    "prepare": "rollup -c",
     "start": "npm run build --watch",
     "check-types": "tsc"
   },
